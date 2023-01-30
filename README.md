@@ -1,8 +1,8 @@
 # weatherApplication
 
-##API Design
+## API Design
 
-###Search API
+### Search API
 
 | Method | Content |
 | ------------- | ------------- |
