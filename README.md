@@ -119,7 +119,7 @@
           
 
 
-Teacher
+## Teacher
 1. Get all teachers 
 
           Request Url : /teacher
